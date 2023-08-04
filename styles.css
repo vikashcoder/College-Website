@@ -189,10 +189,10 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
     position: absolute;
     top:0;
     left: 0;
-    transition: 0.5s;
+    transition: 0.5s ease-in-out;
 }
 .layer:hover{
-    background: rgba(226,0,0,0.7);
+    background: rgba(58, 170, 50, 0.7);
 }
 .layer h3{
     width:100%;
